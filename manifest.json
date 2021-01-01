@@ -1,6 +1,6 @@
 {
-  "short_name": "QuickQuiz",
-  "name": "QuickQuiz",
+  "short_name": "quick_quiz",
+  "name": "quick_quiz",
   "icons": [
     {
       "src": "favicon.ico",
